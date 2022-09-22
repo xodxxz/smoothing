@@ -1,5 +1,5 @@
-getgenv().OldAimPart = "Head"
-getgenv().AimPart = "Head"
+getgenv().OldAimPart = "HumanoidRootPart"
+getgenv().AimPart = "HumanoidRootPart"
 getgenv().AimlockKey = "e"
 getgenv().AimRadius = 15 -- How far away from someones character you want to lock on at
 getgenv().ThirdPerson = true
